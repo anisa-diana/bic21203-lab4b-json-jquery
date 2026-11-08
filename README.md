@@ -52,28 +52,28 @@ This question demonstrates three jQuery DOM operations:
 
 **JSON Code**
 
-![JSON Code](q1-json-code.png)
+<img src="q1-json-code.png" width="400">
 
 **JSON Validation**
 
-![Valid JSON](q1-json-valid.png)
+<img src="q1-json-valid.png" width="400">
 
 ### Question 2: Retrieve and Display JSON Data
 
 **Successful Output**
 
-![Book Information](q2-output.png)
+<img src="q2-output.png" width="400">
 
 **Error Handling**
 
-![Error Handling](q2-error.png)
+<img src="q2-error.png" width="400">
 
 ### Question 3: Compare Native JavaScript and jQuery
 
 **jQuery DOM Operations**
 
-![jQuery Output](q3-output.png)
+<img src="q3-output.png" width="400">
 
 **Button Click Alert**
 
-![Button Clicked](q3-button-clicked.png)
+<img src="q3-button-clicked.png" width="400">
