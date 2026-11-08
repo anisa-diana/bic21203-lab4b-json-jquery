@@ -48,4 +48,32 @@ This question demonstrates three jQuery DOM operations:
 
 ## Screenshots
 
-Screenshots of the JSON validation, webpage outputs, and jQuery button alert are provided in the PDF lab report.
+### Question 1: Create and Structure JSON Data
+
+**JSON Code**
+
+![JSON Code](q1-json-code.png)
+
+**JSON Validation**
+
+![Valid JSON](q1-json-valid.png)
+
+### Question 2: Retrieve and Display JSON Data
+
+**Successful Output**
+
+![Book Information](q2-output.png)
+
+**Error Handling**
+
+![Error Handling](q2-error.png)
+
+### Question 3: Compare Native JavaScript and jQuery
+
+**jQuery DOM Operations**
+
+![jQuery Output](q3-output.png)
+
+**Button Click Alert**
+
+![Button Clicked](q3-button-clicked.png)
